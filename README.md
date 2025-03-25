@@ -175,7 +175,7 @@ Fueled by his drive for excellence, Tom welcomes and greatly appreciates direct 
 Some more specifics:
 
 - Tom would rather have difficult conversations than things to be unsaid and carry on building up in the background.
-- Give Tom a couple of specific examples and suggestions so he gets a clear sense of how he can improve. Or let me see what I can copy from someone else.
+- Give Tom a couple of specific examples and suggestions so he gets a clear sense of how he can improve. Or let him see what he can copy from someone else.
 - Tell Tom when you’ve seen him improve on your feedback. He might think that he doesn't change that much, so please point it out when he does!
 - Tom prefers face-to-face talk (in-person or video call) for constructive feedback, as that gives a chance for dialogue and to clarify misunderstandings. If you're only comfortable kicking off a discussion with an email or a DM, Tom would rather you do that than not bring it up at all.
 - If you're not comfortable giving Tom some feedback yourself, he'd love for you to give it to his line manager or to a Scrum Master so they can anonymously relay it to him, but Tom really encourages you to give it to him directly.
@@ -224,7 +224,7 @@ Take this document with a grain of salt: Tom wrote it himself! People usually do
 
 So, what’s missing above? Or where is Tom lying to himself and others? If you have questions or suggestions for changes, feel free to reach out or to add to this document by submitting a pull request and make it a little more “authorized!” All feedback is welcome.
 
-This document is a living breathing thing and likely incomplete. I update it frequently and would be happy to include your feedback. Help me to keep things true!
+This document is a living breathing thing and likely incomplete. Tom updates it frequently and would be happy to include your feedback. Help him to keep things true!
 
 # Credits
 
