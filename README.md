@@ -8,20 +8,20 @@ This document is not intended to replace or override the relationships and mutua
 
 Also, Tom writing down his own perceived personality faults isn't a free pass for bad behavior! Tom holds himself accountable for the impact he has on others, always.
 
-# Overview
+# Tom's Personality Profile
 
 :first_quarter_moon_with_face: Night owl
 
-:dart: INTJ-A (“The Architect”)
+:dart: MBTI: INTJ-A (“The Architect”)
 - **I**ntroverted	81%
 - I**N**tuitive	  66%
 - **T**hinking	  75%
 - **J**udging	    56%
 - **A**ssertive	  82%
 
-:rocket: Result-Oriented (“The Problem Solver”)
+:rocket: DiSC: Result-Oriented (“The Problem Solver”)
 
-## MBTI
+## Myers–Briggs Type Indicator (MBTI)
 
 *An INTJ (Architect) possesses a rare combination of vision and pragmatism. Their analytical mind constantly seeks to understand the world around them, driven by an insatiable curiosity and a desire to improve systems and ideas. They approach life with a strategic mindset, always looking several steps ahead and planning for various contingencies.*
 
