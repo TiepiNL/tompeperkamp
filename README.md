@@ -135,7 +135,7 @@ Tom knows meetings can be a real timesuck, so let's try to make them as efficien
 
 Generally consider Tom’s work hours to be 9.30am to 5.30pm on days when he’s in the office. When Tom works remotely, he works more flexible hours. If Tom is not available during his normal hours for some reason, he’ll mark it on his calendar.
 
-## After-hours communication
+## After-hours Communication
 
 Tom completely respects that you should have agency over when and how you want to work though, and he will always try his best to make sure that he doesn't message outside of your usual working times. Either way, you should never feel obligated to respond until you are working.
 
