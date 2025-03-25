@@ -1,4 +1,4 @@
-# Working with Tom: an unauthorized guide
+# Working With Tom: an Unauthorized Guide
 
 This is a quick-start guide to navigating the Tom Peperkamp experience. It's a blunt (but hopefully helpful) tour of his personality and quirks. The goal is to help coworkers and peers understand Tom better, to accelerate their collaboration and improve the effectiveness of their interactions. 
 
