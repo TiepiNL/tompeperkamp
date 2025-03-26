@@ -37,7 +37,7 @@ Also, Tom writing down his own perceived personality faults isn't a free pass fo
 
 What gets Tom excited and keeps him going at work? Here are the values that drive him:
 
-- **Competence & Mastery**: Tom is always striving to get better at what he does. He has a drive for excellence, and is always striving to develop his skills, seeking deep understanding and mastery of his fields. Basically, Tom wants to know his stuff really well.
+- **Competence & Mastery**: Tom has a drive for excellence, and is always striving to develop his skills and get better at what he does, seeking deep understanding and mastery of his fields.
 - **Innovation**: Tom gets his energy from the innovative and challenging aspect of growth and improvement, finding new solutions for old issues.
 - **Objectivity**: Tom tries to base his decisions on logic and data, not just gut feelings. He cares about what can be measured, so we can tell if our actions were on the right path. Tom strives to always be rational, based on good reasoning - that said, he can be very stubborn too.
 - **Effectiveness & Purposefulness**: Tom is all about achieving goals and making a difference. Tom likes to work on something with a clear "why" and see it move forward. At the end of the day, what we accomplish and what he contributes is more important to Tom than necessarily who he’s working alongside (although working with great people is a big plus!).
